@@ -1,58 +1,65 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-name="Jamuna Tv" group-title="Bangladesh",Jamuna Tv2
-http://10.20.30.40:8088/209/tracks-v1a1/mono.m3u8?token=388b099ebe2376a9a70ba417a9b19523d0709dc3-ce68bd17a7b8ac4766d9e790295f037f-1735922142-1735918542
+############## LIVE / MISC ##############
+#EXTINF:-1 group-title="Live" tvg-name="Live Stream", Live Stream
+http://10.20.30.40:8088/101/tracks-v1a1/mono.m3u8?token=d63f257934063b34c22658e9793adea30c5c70d8-532b06c2e18b4ef07b1339b843eecd50-1763267193-1763263593
 
-#EXTINF:-1 tvg-id="1" tvg-name="Jamuna Tv" group-title="Bangladesh",Live Play
-http://10.20.30.40:8088/101/tracks-v1a1/mono.m3u8?token=0336d8cdfbfa5b0516a7967a6e34791e6e33107f-1c9cdd1dcfa7c3ae1b4edfbde5b60c57-1739422873-1739419273
 
-#EXTINF:-1 tvg-id="2" tvg-name="T sports" group-title="Bangladesh",T sports
-http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8?token=49d7a4f4470c528340fb394778f1422b1b4db147-cd71b0e448cb78cee95d8eda88122733-1735923406-1735919806
+############## SPORTS ##############
+#EXTINF:-1 group-title="Sports" tvg-name="T Sports", T Sports
+http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8?token=1fab6d9fce036d1b7ccad67a04069e07b90bd1b6-3487aabf9a16930b3ac4c40c5f6853de-1763267307-1763263707
 
-#EXTINF:-1 tvg-id="3" tvg-name="GTV" group-title="Bangladesh",GTV
-http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8?token=5684c4200e254f4afbbece6242162c0912a0a3de-1742daaec1ff2b650ccde087647028b7-1735923546-1735919946
+#EXTINF:-1 group-title="Sports" tvg-name="GTV", GTV
+http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8?token=55022b010127d5461f5839e6a858d0ef3afbcc5e-7d6f7655ef5d4a0512440a48e2b51061-1763267340-1763263740
 
-#EXTINF:-1 tvg-id="4" tvg-name="Independent" group-title="Bangladesh",Independent
-http://10.20.30.40:8088/201/tracks-v1a1/mono.m3u8?token=de016dadc7598f0d6c48ba804fbe291a28db9d65-ed96849b1851dcef7be1ab3da66fee06-1735926673-1735923073
+#EXTINF:-1 group-title="Sports" tvg-name="Star Sports 1", Star Sports 1
+http://10.20.30.40:8088/110/tracks-a1/mono.m3u8?token=24a7b03678c333d01466d23af883cf35e23e1075-1e380bd6b05fef49134de77a0fc3f16c-1763267377-1763263777
 
-#EXTINF:-1 tvg-id="5" tvg-name="ATN Bangla" group-title="Bangladesh",ATN Bangla
-http://10.20.30.40:8088/202/tracks-v1a1/mono.m3u8?token=6f6af5992cec8e3474998e026f6a31065b4a609f-e71c520f5fcf07a32f26118abc545857-1735926725-1735923125
+#EXTINF:-1 group-title="Sports" tvg-name="Star Sports 2", Star Sports 2
+http://10.20.30.40:8088/115/tracks-v1a1/mono.m3u8?token=39fcfa336411acde1ef3f3f1c1bdbda7c7306235-b4197b3750050b74e9a109a79d864d09-1763267409-1763263809
 
-#EXTINF:-1 tvg-id="6" tvg-name="ATN News" group-title="Bangladesh",ATN News
-http://10.20.30.40:8088/203/tracks-v1a1/mono.m3u8?token=e2df7b088aa0582fb908d9fd530a5c35b030de49-20453f011feefdf345f48fcc5ffd2ee9-1735926776-1735923176
+#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports 1", Sony Sports 1
+http://10.20.30.40:8088/119/tracks-v1a1/mono.m3u8?token=4e5c6d1b2e2e8181e6ee94f43270b99d7c99cfca-2b59b167eff1c6160ead1543bcfe0613-1763267815-1763264215
 
-#EXTINF:-1 tvg-id="18" group-title="Bangladesh",Ekattor Tv
-http://10.99.99.99:8080/roarzone/bk/11/tracks-v1a1/mono.m3u8?token=97fa94c753f304333e7fea9d62a80d813bf87da0-4227c6e89e8660d7670c84fd4e4e8eea-1739441143-1739419543
+#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports 2", Sony Sports 2
+http://10.20.30.40:8088/120/tracks-v1a1/mono.m3u8?token=d6cccc49533ce663f749b4e0c82587c2cf3639b9-3d09a4b0c81b5fe0527b9ddab578b086-1763267852-1763264252
 
-#EXTINF:-1 tvg-id="7" tvg-name="DBC News" group-title="Bangladesh",DBC News
-http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8?token=84ccf0431bcfc0f02029539a7da995a223780ac2-7d153d8c3f3eac5d9403ca1e18746e79-1735926842-1735923242
+#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports 3", Sony Sports 3
+http://10.20.30.40:8088/121/tracks-v1a1/mono.m3u8?token=ce65cf037735447d023d5dcb94909ff1302c426e-048c4ea198a42a1b75f7f81beae12ce8-1763267888-1763264288
 
-#EXTINF:-1 tvg-id="8" tvg-name="Somoy Tv" group-title="Bangladesh",Somoy Tv
-http://10.20.30.40:8088/205/tracks-v1a1/mono.m3u8?token=1371172412c85cd733a74e5729d0580fefa5a380-761593fadfd4d32ddad10583945f29a5-1735926870-1735923270
+#EXTINF:-1 group-title="Sports" tvg-name="Star Sports Select 2", Star Sports Select 2
+http://10.20.30.40:8088/124/tracks-v1a1/mono.m3u8?token=b1c61fdd4c18a2426f62966d7201b1a45b23b86b-3020c2b1f52f0c86e0f4305dbc65e129-1763267969-1763264369
 
-#EXTINF:-1 tvg-id="9" tvg-name="Maasranga" group-title="Bangladesh",Maasranga
-http://10.20.30.40:8088/206/tracks-v1a1/mono.m3u8?token=4f6e2a2b24ef2654b1b29e64771bf60f87085712-1ac185e8347517b663518b33ce720316-1735927014-1735923414
 
-#EXTINF:-1 tvg-id="10" tvg-name="Channel I" group-title="Bangladesh",Channel I
-http://10.20.30.40:8088/207/tracks-v1a1/mono.m3u8?token=37868a61633eb442e25218f3d9fa5436082c65d3-681a17bee3034f0a59ebbbec6b4e5511-1735927137-1735923537
+############## NEWS ##############
+#EXTINF:-1 group-title="News" tvg-name="71 TV", 71 TV
+http://10.20.30.40:8088/201/tracks-v1a1/mono.m3u8?token=b9de79c1a1cc7348a998c80b4723eae8e346a8c5-eb0f4e2768ae0352eb74d2ee84c6474b-1763267463-1763263863
 
-#EXTINF:-1 tvg-id="11" tvg-name="StarSports HD1" group-title="Bangladesh",StarSports HD1
-http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8?token=5b7666fa4460eb2a4548f1804d2f93037bbef2a9-e7e0a64822da22a060867e999cd93239-1735927182-1735923582
+#EXTINF:-1 group-title="News" tvg-name="ATN News", ATN News
+http://10.20.30.40:8088/203/tracks-t1/mono.m3u8?token=84aab8dd87d3974869d738fa9217184127fe1643-6efd4ecaa7bd4653963261bb80a7a689-1763267527-1763263927
 
-#EXTINF:-1 tvg-id="12" tvg-name="StarSports HD2" group-title="Bangladesh",StarSports HD2
-http://10.20.30.40:8088/115/tracks-v1a1/mono.m3u8?token=64c588d4ee639e2594d59d11bb59b19519efd48f-329d58999e85ed5ffb02a5403c2423f1-1735927220-1735923620
+#EXTINF:-1 group-title="News" tvg-name="DBC News", DBC News
+http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8?token=68a2df847386530a3dcd66cebe9089343bbb4058-9a086971f82a94e739ede6b54d85d95f-1763267587-1763263987
 
-#EXTINF:-1 tvg-id="13" tvg-name="Sony Sports 1" group-title="Bangladesh",Sony Sports 1
-http://10.20.30.40:8088/119/tracks-v1a1/mono.m3u8?token=26f4ccec4999a14b74191bb4ed41a891ce8b1c69-549ef1eb565afad39d7cb1fd46bd6ed3-1735927261-1735923661
+#EXTINF:-1 group-title="News" tvg-name="Somoy TV", Somoy TV
+http://10.20.30.40:8088/205/tracks-v1a1/mono.m3u8?token=8578c40acd1853928c32e33c124e11896e0de411-eef2321033aace51de4b075d502110e6-1763267617-1763264017
 
-#EXTINF:-1 tvg-id="14" tvg-name="Sony Sports 5" group-title="Bangladesh",Sony Sports 5
-http://10.20.30.40:8088/121/tracks-v1a1/mono.m3u8?token=9e8d7a8f222852670df2f39e26f0b78c2153bb21-ecf4c09235b302bfd82eabaa9bbd7b48-1735927374-1735923774
+#EXTINF:-1 group-title="News" tvg-name="NTV", NTV
+http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8?token=239fca212e018661efd08eb2d34b70eeea9c9b98-6dc1d411f7e0defab310af48d3b9b10f-1763267651-1763264051
 
-#EXTINF:-1 tvg-id="15" tvg-name="Cartoon Network" group-title="Bangladesh",Cartoon Network
-http://10.20.30.40:8088/602/tracks-v1a1/mono.m3u8?token=5a97ddb7d73973a16a7a2309daebf58e6d533051-fdfec7a3f7cabd049605aba5ea8cd947-1735927454-1735923854
+#EXTINF:-1 group-title="News" tvg-name="Jamuna TV", Jamuna TV
+http://10.20.30.40:8088/209/tracks-v1a1/mono.m3u8?token=1aa89d71815feadb3c09874dbf427d5c5aaa0cb2-fbff09c25dd9b7b173c18fdaf35f1873-1763267682-1763264082
 
-#EXTINF:-1 tvg-id="16" tvg-name="Discovery" group-title="Bangladesh",Discovery
-http://10.20.30.40:8088/801/tracks-v1a1/mono.m3u8?token=54bdded70486eeeff640bf74d0786eaf3935442c-25abf0a4b9996a12fad6da3c433b9287-1735927532-1735923932
 
-#EXTINF:-1 tvg-id="17" tvg-name="Sony Aath" group-title="Bangladesh",Sony Aath
-http://10.20.30.40:8088/306/tracks-v1a1/mono.m3u8?token=e5eadc9f9f5b2f6e0eb414684e230da798f8f49e-57e38b026503efd3ddc5d294cd96aac8-1735927629-1735924029
+############## BANGLA ENTERTAINMENT ##############
+#EXTINF:-1 group-title="Bangla" tvg-name="Bangla Vision", Bangla Vision
+http://10.20.30.40:8088/212/tracks-v1a1/mono.m3u8?token=add3fea1b6c42aaa6930a794b9c3add8e09fe55c-75d7c82218d417f3c60bbdeaf50a9b2b-1763267719-1763264119
+
+#EXTINF:-1 group-title="Bangla" tvg-name="Channel i", Channel i
+http://10.20.30.40:8088/207/tracks-v1a1/mono.m3u8?token=8ccfccd21c4de26f98189602b8b96a5d9247f66a-edf572946ec469c0f925ec5c757145a8-1763267776-1763264176
+
+#EXTINF:-1 group-title="Bangla" tvg-name="Maasranga TV", Maasranga TV
+http://10.20.30.40:8088/206/tracks-v1a1/mono.m3u8?token=c1043129548a43908443ea114eb2638a6003fc6e-9b7456b529658bc57ac65c80bcfeaa8d-1763268022-1763264422
+
+#EXTINF:-1 group-title="Bangla" tvg-name="R TV", R TV
+http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8?token=a1ad958f1ac80f7ca25cbe2051d368673c5f26dd-483a31caec959985eb707c5260bbd79e-1763268053-1763264453
