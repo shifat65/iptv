@@ -57,3 +57,10 @@ http://10.20.30.40:8088/206/tracks-v1a1/mono.m3u8?token=c1043129548a43908443ea11
 
 #EXTINF:-1 group-title="Bangla" tvg-name="R TV", R TV
 http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8?token=a1ad958f1ac80f7ca25cbe2051d368673c5f26dd-483a31caec959985eb707c5260bbd79e-1763268053-1763264453
+
+############## Documentary ##############
+#EXTINF:-1 group-title="Documentary" tvg-name="National Geographic", National Geographic
+http://10.20.30.40:8088/802/tracks-v1a1/mono.m3u8?token=e49524c6b0753899a8f379dcc8b5fa2db67bd45c-d6903e560e593d2bb1cb4954e93333fd-1763443284-1763439684
+
+#EXTINF:-1 group-title="Documentary" tvg-name="Discovery", Discovery
+http://10.20.30.40:8088/801/tracks-v1a1/mono.m3u8?token=8f3e6e2dd73b4c86f39c7ac46f467cb0429819ec-0636dd668c8ea82caa9dfd3807385de5-1763443384-1763439784
