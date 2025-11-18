@@ -45,7 +45,7 @@ http://10.20.30.40:8088/205/tracks-v1a1/mono.m3u8?token=8578c40acd1853928c32e33c
 http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8?token=239fca212e018661efd08eb2d34b70eeea9c9b98-6dc1d411f7e0defab310af48d3b9b10f-1763267651-1763264051
 
 #EXTINF:-1 group-title="News" tvg-name="Channel 24", Channel 24
-http://136.243.145.220/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=
+https://136.243.145.220/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/tracks-v1a1/mono.m3u8
 
 
 ############## BANGLA ENTERTAINMENT ##############
