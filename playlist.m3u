@@ -67,7 +67,7 @@ http://10.20.30.40:8088/206/tracks-v1a1/mono.m3u8?token=c1043129548a43908443ea11
 #EXTINF:-1 group-title="Bangla" tvg-name="R TV", R TV
 http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8?token=a1ad958f1ac80f7ca25cbe2051d368673c5f26dd-483a31caec959985eb707c5260bbd79e-1763268053-1763264453
 
-#EXTINF:-1 group-title="News" tvg-name="NTV", NTV
+#EXTINF:-1 group-title="Bangla" tvg-name="NTV", NTV
 http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8?token=239fca212e018661efd08eb2d34b70eeea9c9b98-6dc1d411f7e0defab310af48d3b9b10f-1763267651-1763264051
 
 ############## Documentary ##############
