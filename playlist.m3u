@@ -12,9 +12,6 @@ http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8?token=1fab6d9fce036d1b7ccad67a
 #EXTINF:-1 group-title="Sports" tvg-name="GTV", GTV
 http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8?token=55022b010127d5461f5839e6a858d0ef3afbcc5e-7d6f7655ef5d4a0512440a48e2b51061-1763267340-1763263740
 
-#EXTINF:-1 group-title="Sports" tvg-name="Star Sports 1", Star Sports 1
-http://10.20.30.40:8088/110/tracks-a1/mono.m3u8?token=1053836d77836fc6589ef9c0ed1f43666ef2cfad-970c028430b39451547d680a3fe73032-1763270399-1763266799
-
 #EXTINF:-1 group-title="Sports" tvg-name="Star Sports 2", Star Sports 2
 http://10.20.30.40:8088/115/tracks-v1a1/mono.m3u8?token=39fcfa336411acde1ef3f3f1c1bdbda7c7306235-b4197b3750050b74e9a109a79d864d09-1763267409-1763263809
 
@@ -35,20 +32,17 @@ http://10.20.30.40:8088/124/tracks-v1a1/mono.m3u8?token=b1c61fdd4c18a2426f62966d
 #EXTINF:-1 group-title="News" tvg-name="71 TV", 71 TV
 http://10.20.30.40:8088/201/tracks-v1a1/mono.m3u8?token=b9de79c1a1cc7348a998c80b4723eae8e346a8c5-eb0f4e2768ae0352eb74d2ee84c6474b-1763267463-1763263863
 
-#EXTINF:-1 group-title="News" tvg-name="ATN News", ATN News
-http://10.20.30.40:8088/203/tracks-t1/mono.m3u8?token=96a2b903cd6eb396048d4e85363f1a5068cbefc7-fd7bd03c3afdfe7c7f1722137dac75a6-1763270478-1763266878
-
 #EXTINF:-1 group-title="News" tvg-name="DBC News", DBC News
 http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8?token=68a2df847386530a3dcd66cebe9089343bbb4058-9a086971f82a94e739ede6b54d85d95f-1763267587-1763263987
+
+#EXTINF:-1 group-title="News" tvg-name="Jamuna TV", Jamuna TV
+http://10.20.30.40:8088/209/tracks-v1a1/mono.m3u8?token=1aa89d71815feadb3c09874dbf427d5c5aaa0cb2-fbff09c25dd9b7b173c18fdaf35f1873-1763267682-1763264082
 
 #EXTINF:-1 group-title="News" tvg-name="Somoy TV", Somoy TV
 http://10.20.30.40:8088/205/tracks-v1a1/mono.m3u8?token=8578c40acd1853928c32e33c124e11896e0de411-eef2321033aace51de4b075d502110e6-1763267617-1763264017
 
 #EXTINF:-1 group-title="News" tvg-name="NTV", NTV
 http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8?token=239fca212e018661efd08eb2d34b70eeea9c9b98-6dc1d411f7e0defab310af48d3b9b10f-1763267651-1763264051
-
-#EXTINF:-1 group-title="News" tvg-name="Jamuna TV", Jamuna TV
-http://10.20.30.40:8088/209/tracks-v1a1/mono.m3u8?token=1aa89d71815feadb3c09874dbf427d5c5aaa0cb2-fbff09c25dd9b7b173c18fdaf35f1873-1763267682-1763264082
 
 
 ############## BANGLA ENTERTAINMENT ##############
