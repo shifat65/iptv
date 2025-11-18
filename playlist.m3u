@@ -38,14 +38,20 @@ http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8?token=68a2df847386530a3dcd66ce
 #EXTINF:-1 group-title="News" tvg-name="Jamuna TV", Jamuna TV
 http://10.20.30.40:8088/209/tracks-v1a1/mono.m3u8?token=1aa89d71815feadb3c09874dbf427d5c5aaa0cb2-fbff09c25dd9b7b173c18fdaf35f1873-1763267682-1763264082
 
+#EXTINF:-1 group-title="News" tvg-name="Independent TV", Independent TV
+https://136.243.145.220/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="News" tvg-name="Somoy TV", Somoy TV
 http://10.20.30.40:8088/205/tracks-v1a1/mono.m3u8?token=8578c40acd1853928c32e33c124e11896e0de411-eef2321033aace51de4b075d502110e6-1763267617-1763264017
 
-#EXTINF:-1 group-title="News" tvg-name="NTV", NTV
-http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8?token=239fca212e018661efd08eb2d34b70eeea9c9b98-6dc1d411f7e0defab310af48d3b9b10f-1763267651-1763264051
-
 #EXTINF:-1 group-title="News" tvg-name="Channel 24", Channel 24
 https://136.243.145.220/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="News" tvg-name="Desh TV", Desh TV
+https://136.243.145.220/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="News" tvg-name="Ekhon TV", Ekhon TV
+https://136.243.145.220//c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 
 
 ############## BANGLA ENTERTAINMENT ##############
@@ -60,6 +66,9 @@ http://10.20.30.40:8088/206/tracks-v1a1/mono.m3u8?token=c1043129548a43908443ea11
 
 #EXTINF:-1 group-title="Bangla" tvg-name="R TV", R TV
 http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8?token=a1ad958f1ac80f7ca25cbe2051d368673c5f26dd-483a31caec959985eb707c5260bbd79e-1763268053-1763264453
+
+#EXTINF:-1 group-title="News" tvg-name="NTV", NTV
+http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8?token=239fca212e018661efd08eb2d34b70eeea9c9b98-6dc1d411f7e0defab310af48d3b9b10f-1763267651-1763264051
 
 ############## Documentary ##############
 #EXTINF:-1 group-title="Documentary" tvg-name="National Geographic", National Geographic
