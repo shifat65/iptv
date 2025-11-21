@@ -1,10 +1,6 @@
 #EXTM3U
 
 ############## LIVE / MISC ##############
-#EXTINF:-1 group-title="Live" tvg-name="Live Stream", Live Streamx
-http://103.166.152.22:8080/roarzone/bk/102/tracks-a1/index.fmp4.m3u8?token=4f2020d7ec36ccf4cc6806d89b01d53be3eef4e3-09153c0c1d663f66baec1ce02f78da3c-1763703832-1763693032
-
-
 #EXTINF:-1 group-title="Live" tvg-name="Live Stream", Live Stream
 http://10.20.30.40:8088/101/tracks-v1a1/mono.m3u8?token=d63f257934063b34c22658e9793adea30c5c70d8-532b06c2e18b4ef07b1339b843eecd50-1763267193-1763263593
 
