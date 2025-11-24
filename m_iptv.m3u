@@ -1,7 +1,7 @@
 #EXTM3U
 
 ############## SPORTS ##############
-#EXTINF:-1 group-title="Sports" tvg-name="Live Stream", Live Stream
+#EXTINF:-1 group-title="Sports" tvg-name="Live Stream" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrLATL1YxVd4EVKm1tJlhkfievFMv6YsbT6O1ZGd26chbIrAMwzfpplsWx&s=10", Live Stream
 http://10.20.30.40:8088/101/tracks-v1a1/mono.m3u8?token=d63f257934063b34c22658e9793adea30c5c70d8-532b06c2e18b4ef07b1339b843eecd50-1763267193-1763263593
 
 #EXTINF:-1 group-title="Sports" tvg-name="T Sports" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png", T Sports HD
@@ -16,38 +16,38 @@ http://103.166.152.22:8080/roarzone/bk/1/index.m3u8?token=cf556f07224c7ef2bf5e9b
 #EXTINF:-1 group-title="Sports" tvg-name="GTV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/226d28bf-a5aa-4889-9de1-4d5654021fea.png", GTV
 http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8?token=55022b010127d5461f5839e6a858d0ef3afbcc5e-7d6f7655ef5d4a0512440a48e2b51061-1763267340-1763263740
 
-#EXTINF:-1 group-title="Sports" tvg-name="Dubai Sports HD", Dubai Sports HD
+#EXTINF:-1 group-title="Sports" tvg-name="Dubai Sports HD" tvg-logo"https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png", Dubai Sports HD
 http://103.166.152.22:8080/roarzone/bk/dubai-sports/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="Sports" tvg-name="Euro Sports HD", Euro Sports HD
+#EXTINF:-1 group-title="Sports" tvg-name="Euro Sports HD" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSS2t3vnoBzEwTIpgOnVT5ImhlxC-AKPh8nxh8uWIqEBWNpYP_0Md1pA&s=10", Euro Sports HD
 http://103.166.152.22:8080/roarzone/toffee/euro_sports_hd/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="Sports" tvg-name="Sony Six", Sony Six
+#EXTINF:-1 group-title="Sports" tvg-name="Sony Six" tvg-logo"https://static.wikia.nocookie.net/logopedia/images/c/c0/Sony_Six_HD.png/revision/latest/scale-to-width-down/250?cb=20211106103631", Sony Six
 http://103.166.152.22:8080/roarzone/bk/24/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports 1", Sony Sports 1 
+#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports 1" tvg-logo"https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png", Sony Sports 1 
 http://10.20.30.40:8088/119/tracks-v1a1/mono.m3u8?token=8f19df5799acba7407ace291155ff8e6e325a615-e003925394ea687f505a8e446ac32e4b-1763792649-1763781849 
 
-#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports 2", Sony Sports 2 
+#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports 2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png", Sony Sports 2 
 http://10.20.30.40:8088/120/tracks-v1a1/mono.m3u8?token=8f19df5799acba7407ace291155ff8e6e325a615-e003925394ea687f505a8e446ac32e4b-1763792649-1763781849 
 
-#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports 3", Sony Sports 3 
+#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports 3" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png", Sony Sports 5 
 http://10.20.30.40:8088/121/tracks-v1a1/mono.m3u8?token=ce65cf037735447d023d5dcb94909ff1302c426e-048c4ea198a42a1b75f7f81beae12ce8-1763267888-1763264288
 
 
-#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports 1", Sony Sports 1
+#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports 1" tvg-logo"https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png", Sony Sports 1
 http://103.166.152.22:8080/roarzone/bk/20/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports 2", Sony Sports 2
+#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports 2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png", Sony Sports 2
 http://103.166.152.22:8080/roarzone/bk/21/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports 5", Sony Sports 5
+#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports 5" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png", Sony Sports 5
 http://103.166.152.22:8080/roarzone/bk/22/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="Sports" tvg-name="Ten Cricket", Ten Cricket
+#EXTINF:-1 group-title="Sports" tvg-name="Ten Cricket" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png", Ten Cricket
 http://103.166.152.22:8080/roarzone/toffee/ten_cricket/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="Sports" tvg-name="Star Sports HD 1", Star Sports HD 1
+#EXTINF:-1 group-title="Sports" tvg-name="Star Sports HD 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png/revision/latest/scale-to-width-down/200?cb=20150719162710", Star Sports HD 1
 http://103.166.152.22:8080/roarzone/bk/25/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
 #EXTINF:-1 group-title="Sports" tvg-name="Star Sports HD 2" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/f48fbc0c-1e4b-46a9-9a83-62cf86d5acbd.png", Star Sports HD 2
@@ -166,5 +166,5 @@ http://103.166.152.22:8080/roarzone/bk/55/index.m3u8?token=cf556f07224c7ef2bf5e9
 #EXTINF:-1 group-title="Kids" tvg-name="Pogo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Pogo_2016.svg/revision/latest/scale-to-width-down/300?cb=20240426235330", Pogo
 http://103.166.152.22:8080/roarzone/toffee/pogo_sd/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="Kids" tvg-name="Dicovery Kids" tvg-logo="", Dicovery Kids
+#EXTINF:-1 group-title="Kids" tvg-name="Dicovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", Dicovery Kids
 http://103.166.152.22:8080/roarzone/toffee/discovery_kids/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
