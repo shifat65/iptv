@@ -4,16 +4,16 @@
 #EXTINF:-1 group-title="Sports" tvg-name="Live Stream", Live Stream
 http://10.20.30.40:8088/101/tracks-v1a1/mono.m3u8?token=d63f257934063b34c22658e9793adea30c5c70d8-532b06c2e18b4ef07b1339b843eecd50-1763267193-1763263593
 
-#EXTINF:-1 group-title="Sports" tvg-name="T Sports", T Sports HD
+#EXTINF:-1 group-title="Sports" tvg-name="T Sports" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png", T Sports HD
 http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8?token=1fab6d9fce036d1b7ccad67a04069e07b90bd1b6-3487aabf9a16930b3ac4c40c5f6853de-1763267307-1763263707
 
-#EXTINF:-1 group-title="Sports" tvg-name="T Sports HD", T Sports HD
+#EXTINF:-1 group-title="Sports" tvg-name="T Sports HD" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png", T Sports HD
 http://103.166.152.22:8080/roarzone/bk/102/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="Sports" tvg-name="GTV", GTV
+#EXTINF:-1 group-title="Sports" tvg-name="GTV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/62331ea0-02eb-482b-94a1-9ef302fce293.png", GTV
 http://103.166.152.22:8080/roarzone/bk/1/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="Sports" tvg-name="GTV", GTV
+#EXTINF:-1 group-title="Sports" tvg-name="GTV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/62331ea0-02eb-482b-94a1-9ef302fce293.png", GTV
 http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8?token=55022b010127d5461f5839e6a858d0ef3afbcc5e-7d6f7655ef5d4a0512440a48e2b51061-1763267340-1763263740
 
 #EXTINF:-1 group-title="Sports" tvg-name="Dubai Sports HD", Dubai Sports HD
@@ -50,36 +50,36 @@ http://103.166.152.22:8080/roarzone/toffee/ten_cricket/index.m3u8?token=cf556f07
 #EXTINF:-1 group-title="Sports" tvg-name="Star Sports HD 1", Star Sports HD 1
 http://103.166.152.22:8080/roarzone/bk/25/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="Sports" tvg-name="Star Sports HD 2", Star Sports HD 2
+#EXTINF:-1 group-title="Sports" tvg-name="Star Sports HD 2" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/f48fbc0c-1e4b-46a9-9a83-62cf86d5acbd.png", Star Sports HD 2
 http://103.166.152.22:8080/roarzone/bk/26/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="Sports" tvg-name="Star Sports Select 1", Star Sports Select 1
+#EXTINF:-1 group-title="Sports" tvg-name="Star Sports Select 1" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/3fa8b1d2-4fb5-436a-98f9-3e2f8171c96b.png", Star Sports Select 1
 http://103.166.152.22:8080/roarzone/bk/27/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="Sports" tvg-name="Star Sports Select 2", Star Sports Select 2
+#EXTINF:-1 group-title="Sports" tvg-name="Star Sports Select 2" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/4fd51271-e301-49bb-9604-e09cd9dad6c2.png", Star Sports Select 2
 http://103.166.152.22:8080/roarzone/bk/28/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
 
 ############## NEWS ##############
-#EXTINF:-1 group-title="News" tvg-name="Ekattor TV", Ekattor TV
+#EXTINF:-1 group-title="News" tvg-name="Ekattor TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/dbbecb69-4663-4ff9-b844-8c9f153096d9.png", Ekattor TV
 http://103.166.152.22:8080/roarzone/bk/11/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="News" tvg-name="Ekhon TV", Ekhon TV
+#EXTINF:-1 group-title="News" tvg-name="Ekhon TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/41f41d61-4fa8-4b5f-9fe8-42632d7b599b.png", Ekhon TV
 https://136.243.145.220//c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="News" tvg-name="Somoy TV", Somoy TV
+#EXTINF:-1 group-title="News" tvg-name="Somoy TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1a695f5d-e1b7-43f7-95bd-a3d17787891e.png", Somoy TV
 http://103.166.152.22:8080/roarzone/bk/17/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="News" tvg-name="Independent", Independent
+#EXTINF:-1 group-title="News" tvg-name="Independent" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b1684d4d-63b5-496b-b4d5-bc88129ac4e6.png", Independent
 http://103.166.152.22:8080/roarzone/bk/12/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="News" tvg-name="Jamuna TV", Jamuna TV
+#EXTINF:-1 group-title="News" tvg-name="Jamuna TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cc8f548e-089c-47f6-8b6f-ff8699fb2a3d.png", Jamuna TV
 http://103.166.152.22:8080/roarzone/bk/13/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="News" tvg-name="DBC News", DBC News
+#EXTINF:-1 group-title="News" tvg-name="DBC News" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8a826f10-626d-435d-aa6d-1d94ee2eba01.png", DBC News
 http://103.166.152.22:8080/roarzone/bk/7/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
 
-#EXTINF:-1 group-title="News" tvg-name="Desh TV", Desh TV
+#EXTINF:-1 group-title="News" tvg-name="Desh TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ac92db20-1e80-40da-aa95-ccaa3072d95d.png", Desh TV
 https://136.243.145.220/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="News" tvg-name="RTV", RTV
