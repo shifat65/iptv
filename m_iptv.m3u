@@ -62,25 +62,28 @@ http://103.166.152.22:8080/roarzone/bk/28/index.m3u8?token=cf556f07224c7ef2bf5e9
 
 ############## NEWS ##############
 #EXTINF:-1 group-title="News" tvg-name="Ekattor TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Ekattor_TV_logo.png/revision/latest?cb=20210920205546", Ekattor TV
-http://103.166.152.22:8080/roarzone/bk/11/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
+https://www.youtube.com/@EkattorTelevision/live
 
 #EXTINF:-1 group-title="News" tvg-name="Ekhon TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/41f41d61-4fa8-4b5f-9fe8-42632d7b599b.png", Ekhon TV
 https://136.243.145.220//c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="News" tvg-name="Somoy TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/1a695f5d-e1b7-43f7-95bd-a3d17787891e.png", Somoy TV
-https://www.youtube.com/watch?v=cg_ev1tLo1Y
+https://www.youtube.com/@SOMOYTVBulletin/live
 
 #EXTINF:-1 group-title="News" tvg-name="Independent" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/b1684d4d-63b5-496b-b4d5-bc88129ac4e6.png", Independent
-http://103.166.152.22:8080/roarzone/bk/12/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
+https://www.youtube.com/@IndependentTelevision/live
 
 #EXTINF:-1 group-title="News" tvg-name="Jamuna TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cc8f548e-089c-47f6-8b6f-ff8699fb2a3d.png", Jamuna TV
-http://103.166.152.22:8080/roarzone/bk/13/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
+https://www.youtube.com/@JamunaTVbd/live
 
 #EXTINF:-1 group-title="News" tvg-name="DBC News" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8a826f10-626d-435d-aa6d-1d94ee2eba01.png", DBC News
-http://103.166.152.22:8080/roarzone/bk/7/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
+https://www.youtube.com/@dbcnewstv/live
 
 #EXTINF:-1 group-title="News" tvg-name="Desh TV" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/ac92db20-1e80-40da-aa95-ccaa3072d95d.png", Desh TV
-https://136.243.145.220/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
+https://www.youtube.com/@livedeshtv/live
+
+#EXTINF:-1 group-title="News" tvg-name="News 24" tvg-logo="hhttps://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png", News 24
+https://www.youtube.com/@news24livetv/live
 
 #EXTINF:-1 group-title="News" tvg-name="RTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Rtv_bangladesh.svg/revision/latest?cb=20250717111535", RTV
 http://103.166.152.22:8080/roarzone/bk/14/index.m3u8?token=cf556f07224c7ef2bf5e9b2820cd68ca3c5ed201-68f52f4190b390b25968290cdaff849d-1763969448-1763958648
